@@ -1,0 +1,96 @@
+#+TITLE: Name
+#+LANGUAGE: en
+#+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
+#+OPTIONS: html-postamble:nil
+#+STARTUP: showeverything entitiespretty
+#+SETUPFILE: ./theme-bigblow.setup
+* Character
+** IDENTIFICATION
+| CLASS & LEVEL | BACKGROUND | PLAYER NAME | RACE | ALIGNMENT |
+|---------------+------------+-------------+------+-----------|
+|               |            |             |      |           |
+- [ ] INSPIRATION
+|   | PROFICIENCY BONUS |
+** PERSONALITY TRAITS
+** IDEALS
+** BONDS
+** FLAWS
+** HEALTH & ARMOR
+| ARMOR CLASS | INITIATIVE | SPEED |
+|-------------+------------+-------|
+|             |            |       |
+
+| CURRENT HP | MAX HP |
+|------------+--------|
+|            |        |
+
+| TEMP CURRENT HP |   |
+
+| HIT DICE |   |
+*** DEATH SAVES
+**** SUCCESSES
+     - [ ]
+     - [ ]
+     - [ ]
+**** FAILURES
+     - [ ]
+     - [ ]
+     - [ ]
+** STATS
+   |          | STRENGTH | DEXTERITY | CONSTITUTION | INTELLIGENCE | WISDOM | CHARISMA |
+   |----------+----------+-----------+--------------+--------------+--------+----------|
+   | VAL      |          |           |              |              |        |          |
+   | MOD      |          |           |              |              |        |          |
+** THROWS
+   |  |   | Strength     |
+   |  |   | Dexterity    |
+   |  |   | Constitution |
+   |  |   | Intelligence |
+   |  |   | Wisdom       |
+   |  |   | Charisma     |
+
+   |  |   | Acrobatics (dex)      |
+   |  |   | Animal Handling (wis) |
+   |  |   | Arcana (int)          |
+   |  |   | Athletics (str)       |
+   |  |   | Deception (cha)       |
+   |  |   | History (int)         |
+   |  |   | Insight (wis)         |
+   |  |   | Intimidation (cha)    |
+   |  |   | Investigation(int)    |
+   |  |   | Medicine (wis)        |
+   |  |   | Nature (int)          |
+   |  |   | Perception (wis)      |
+   |  |   | Performance (cha)     |
+   |  |   | Persuasion (int)      |
+   |  |   | Religion (int)        |
+   |  |   | Slight of Hand (dex)  |
+   |  |   | Stealth (dex)         |
+   |  |   | Survival (wis)        |
+
+   |   | PASSIVE WISDOM (PERCEPTION) |
+** ATTACKS & SPELLCASTING
+   | NAME | ATK BONUS | DAMAGE | TYPE |
+   |------+-----------+--------+------|
+   |      |           |        |      |
+** FEATURES & TRAITS
+** EQUIPMENT
+   | CP |   |
+   | SP |   |
+   | EP |   |
+   | GP |   |
+   | PP |   |
+
+   -
+** OTHER PROFICIENCIES & LANGUAGES
+* DESCRIPTION
+** PHYSICAL ATTRIBUTES
+   | AGE | HEIGHT | WEIGHT | EYES | SKIN | HAIR |
+   |-----+--------+--------+------+------+------|
+   |     |        |        |      |      |      |
+** CHARACTER APPEARANCE
+** ALLIES & ORGANIZATIONS
+*** NAME
+** ADDITIONAL FEATURES & TRAITS
+** CHARACTER BACKSTORY
+** TREASURE

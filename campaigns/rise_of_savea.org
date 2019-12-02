@@ -1,0 +1,36 @@
+#+TITLE: The Rise of Savea
+#+LANGUAGE: en
+#+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
+#+OPTIONS: html-postamble:nil
+#+STARTUP: showeverything entitiespretty
+#+SETUPFILE: ../theme-bigblow.setup
+* Savea
+** who
+  Savea is a Dracolich. He resides deep within a volcanic cave on the island of Falealupo.
+  The path to it is lined with deamons waiting to kill any living mortals who attempt to enter his domain.
+** his servants
+  His immediate servants are Succubus and Incubus but he also employs various other undead monsters to go about his bidding.
+** his goals
+True immortality and  dominioin over the Tialoan Islands
+*** how
+    collecting some powerful set of objects
+     - Hauone (sands of life)
+** his cult
+  The Tarako is the cult of Maliu mages who created savea from an ancient red dragon who wanted to cheat death so that
+  he could subtly and quietly obtain dominion over the [islandy name] islands
+*** his servants
+  His immediate servants are Succubus and Incubus but he also employs various other undead monsters to go about his bidding.
+* Week 1: Introduce the Tialoan Islands
+* Week 2: The Gold Volcano (drop hints about unexplained maliu magic (necromancy))
+* Week 3*: The Night Marchers
+** Myth
+  [[https://www.to-hawaii.com/legends/night-marchers.php][night marchers]]
+* Week 4
+* Week 5
+* Week 6*
+* Week 7
+* Week 8
+* Week 9*
+* Week 10
+* Week 11
+* Week 12*

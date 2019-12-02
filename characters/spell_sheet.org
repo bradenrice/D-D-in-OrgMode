@@ -1,0 +1,21 @@
+Sorcerer
+* Spell casting ability
+  Charisma
+* spell save
+  13
+* spell attack bonus
+  +3
+* Spells
+** CANTRIPS
+   - Light
+   - Ray of frost
+   - shocking grasp
+   - Prestidigitation
+   - Acid Splash
+** 1st lvl spells
+   - Shield
+   - Magic Missile
+** 2nd lvl spells
+   - Aganazzar’s Scorcher
+   - Cloud of Daggers
+   - Scorching Ray

@@ -1,0 +1,28 @@
+#+name: dnd-code
+#+begin_src elisp :results silent
+  (require 'cl)
+  (defun roll (n d)
+    (loop for x from 1 to n
+          collect (+ (random d) 1)))
+
+  (defun nd4 (n)
+    (roll n 4))
+
+  (defun nd6 (n)
+    (roll n 6))
+
+  (defun nd8 (n)
+    (roll n 8))
+
+  (defun nd10 (n)
+    (roll n 10))
+
+  (defun nd12 (n)
+    (roll n 12))
+
+  (defun nd20 (n)
+    (roll n 20))
+
+  (defun nd100 (n)
+    (roll n 100))
+#+end_src
