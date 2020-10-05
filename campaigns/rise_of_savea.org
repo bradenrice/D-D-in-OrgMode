@@ -4,6 +4,21 @@
 #+OPTIONS: html-postamble:nil
 #+STARTUP: showeverything entitiespretty
 #+SETUPFILE: ../theme-bigblow.setup
+You are from a land of great peace and prosperity. The many kingdoms have peace and open trade.
+There are great highways where anyone can travel safely without fear of monsters.
+The only real frontier is the great seas. King Tridon of Maricia sent several
+peaceful expiditions out to find other peoples and kingdoms, sure that the world
+was more than just this land.
+
+None of them ever returned until one single survivor made it back on a lifeboat.
+Upon his return, he informed the king that they had been attacked by a dragon
+turtle. If they were to continue their exploratory efforts, they would need
+a stronger ship with great warriors.
+
+King Tridon sent word to every kingdom. He told them of great sea monsters,
+but also of adventure in new lands and maybe even great treasure.
+
+You adventurers have responded to that call...
 * Savea
 ** who
   Savea is a Dracolich. He resides deep within a volcanic cave on the island of Falealupo.
