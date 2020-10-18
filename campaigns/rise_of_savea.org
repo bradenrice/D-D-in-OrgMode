@@ -1,9 +1,5 @@
 #+TITLE: The Rise of Savea
-#+LANGUAGE: en
-#+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
-#+OPTIONS: html-postamble:nil
-#+STARTUP: showeverything entitiespretty
-#+SETUPFILE: ../theme-bigblow.setup
+#+author: Braden Rice
 You are from a land of great peace and prosperity. The many kingdoms have peace and open trade.
 There are great highways where anyone can travel safely without fear of monsters.
 The only real frontier is the great seas. King Tridon of Maricia sent several
