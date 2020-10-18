@@ -1,0 +1,44 @@
+#+title: Tialoans
+#+author: Braden Rice
+* Overview
+  The Tialoans are much like the aarakocras. They are humanoid bird like
+  creatures. One key difference is that they come in a wide variety of chromatic
+  and metalic colors like the dragons. They all have a natural ability to
+  perform magic, making them effective monks. Their colors signify an afinity to
+  a particular element. They don't have a breath weapon like a dragon but they
+  do have elemental resistance and special proficiency with magic involving
+  their natural element. They also have special thick, hard feathers that act
+  almost like scales on a dragon, giving them an extra natural AC bonus.
+
+  Specific details will be found in the stats section.
+* Stats
+* Communication and Language
+** Bird-like
+   Since they are bird-like creatures with beaks, they cannot make any noises
+   that sound like a complex language capable of communicating any kind of
+   complex thought.
+
+   To accompany other forms of communication, they do have non-verbal
+   communication like ruffling their feathers and the ability to squack, chirp
+   and whistle like a bird. These are mainly just to communicate strong emotion.
+
+   They do whistle and chirp to make beautiful music and take advantage of their
+   natural bright colors for performances which will be discussed later.
+** Thought-speech
+   In order to communicate more complex thoughts, their natural affinity to
+   magic has helped them develop the ability to communicate via thought-speech.
+
+   Amongst eachother, they are able to mentally communicate just about anywhere
+   on an island. They have not discovered an island so large that they cannot
+   hear eachother anywhere.
+
+   When communicating with other races, their range is about the same distance
+   as any audible speech.
+
+   Thoughts can be communicated in the form of ideas, images, emotions, or
+   actual words. Since it is pure thought, anyone can understand them no matter
+   their natural language.
+** Communication from outsiders
+   They don't often communicate with outsiders at all and so have no natural
+   language that they can understand except for common. They are also not mind
+   readers so most other creaturs cannot respond to them with their thoughts.
